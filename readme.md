@@ -15,18 +15,5 @@ Your task is to guide an increasing number of trains to their stations. You must
 
 **Attention is a limited resource that can track only so much information at once — so you must use your attention efficiently by planning ahead.**
 
-## Credits
-* Ali Ismael
 
-* Islam Hanafi
-
-* Mena Emad
-
-* Mohamed Naguib
-
-* Mohamed Tarek
-
----
-
-**- Pull requests are welcome.**
 

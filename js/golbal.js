@@ -5,10 +5,8 @@ function trainHorn(){
     var audio = new Audio ('./SoundEffects/train-pass-by-02.WAV');
     audio.play();
 }
-function scoreSound(){
-    var audio = new Audio ('./SoundEffects/Mario-coin-sound.MP3');
-    audio.play();
-}
+
+
 function buzzerSound(){
     var buzzaudio = new Audio ('./SoundEffects/Buzzer.wav');
     buzzaudio.play();
